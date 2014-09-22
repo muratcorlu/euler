@@ -8,5 +8,8 @@ twitter_username: muratcorlu
 github_username:  muratcorlu
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: ":title.html"
+
+redcarpet:
+  extensions: ['superscript']
