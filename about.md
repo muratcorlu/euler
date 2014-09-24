@@ -6,4 +6,4 @@ permalink: /hakkinda/
 
 Buraya ProjectEuler hakkında bilgi gelecek.
 
-Orijinal site: [https://projecteuler.net]()
+Orijinal site: [https://projecteuler.net](https://projecteuler.net)
